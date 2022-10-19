@@ -1,51 +1,15 @@
 id: 1
-name: ask
+name: words
 
 Ask
-===
-id: 2
-name: fly
-
 Fly
-===
-id: 3
-name: give
-
 Give
-===	
-id: 4
-name: know
-
 Know
-===	
-id: 5
-name: apple
-
 Apple
-===
-id: 6
-name: mary
-
 Mary
-===	
-id: 7
-name: lime
-
 Lime
-===	
-id: 10
-name: orange
-
 Orange
-===	
-id: 11
-name: peach
-
 Peach
-===
-id: 12
-name: plum
-
 Plum
 ===	
 id: 13
